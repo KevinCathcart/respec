@@ -1,11 +1,15 @@
 ReSpec
 ======
-[![Build Status](https://travis-ci.org/darobin/respec.png?branch=develop)](https://travis-ci.org/darobin/respec)
+[![Build Status](https://travis-ci.org/KevinCathcart/respec.png?branch=master)](https://travis-ci.org/KevinCathcart/respec)
 
 ReSpec is a JS library that makes it easier to write technical specifications, or documents
 that tend to be technical in nature in general. It was originally designed for the purpose
 of writing W3C specifications, but has since grown to be able to support other outputs as 
 well.
+
+This Branch
+===========
+This branch contains my personal customizations for use with miscilanious technical documentation.
 
 Important Note
 ==============

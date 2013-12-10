@@ -9,6 +9,7 @@
         "test": "tests"
     },
     "scripts": {
+        "start": "node ./tools/server.js",
         "test": "node ./tests/headless.js"
     },
     "repository": {
